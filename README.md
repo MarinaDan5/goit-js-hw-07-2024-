@@ -1,1 +1,1 @@
-# goit-js-hw-07-2024-
+# goit-js-hw-07
